@@ -16,3 +16,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nk{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.rating{
+  color: rgb(255, 190, 40);
+  
+  font-weight: bold;
+
+}
+.ntxt{
+  font-weight: normal;
+  color: black;
+
+}
+.a1{
+  display: flex;
+  
+
+
+
+}
